@@ -1,2 +1,6 @@
-# vrpex-pizza-delivery
-script basico de entregador de pizza
+<h1 align="center">Pizza Delivery job🍕r</h1>
+<p align="center">Script simples de entregador de pizza</p>
+
+## Description ##
+script para fivem funciona bem em bases vrp/vrpex ,a script não esta pronta para baixar e rodar precisa definir os locais de entrega e adaptar ao seu gosto
+
