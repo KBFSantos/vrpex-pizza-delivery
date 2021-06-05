@@ -1,4 +1,4 @@
-<h1 align="center">Pizza Delivery job🍕r</h1>
+<h1 align="center">Pizza Delivery job🍕</h1>
 <p align="center">Script simples de entregador de pizza</p>
 
 ## Description ##
